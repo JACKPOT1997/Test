@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'corebdTestwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B4EAEB9F69074AA89F3B85BA3BFAAFF8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5DDC5D0F409F442088140E779090AB5F }}
           package: .
