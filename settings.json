@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2ff34365-f90b-4df3-9f1a-e89d8a5b2f29/resourceGroups/RG-Study/subscriptions/2ff34365-f90b-4df3-9f1a-e89d8a5b2f29/resourceGroups/RG-Study/providers/Microsoft.Web/sites/corebuilderwebapp",
+    "appService.deploySubpath": "."
+}
